@@ -21,11 +21,6 @@ class GameOfLife {
     // ]
   }
 
-
-  /**
-   * Return the amount of living neighbors around a given coordinate.
-   */
-
   livingNeighbors(row, col) {
     // TODO: Return the count of living neighbors.
   }
